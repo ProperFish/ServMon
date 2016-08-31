@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{C83A3BA2-CC10-4ADE-A5A0-60C9D5AB9273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadServer", "MultithreadServer\MultithreadServer.csproj", "{27405F47-CEDE-4A7A-B4A5-B0B544D249C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadClient", "MultithreadClient\MultithreadClient.csproj", "{B9CE14EE-FA83-42D3-877D-43BDB6871C4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C83A3BA2-CC10-4ADE-A5A0-60C9D5AB9273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C83A3BA2-CC10-4ADE-A5A0-60C9D5AB9273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C83A3BA2-CC10-4ADE-A5A0-60C9D5AB9273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27405F47-CEDE-4A7A-B4A5-B0B544D249C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27405F47-CEDE-4A7A-B4A5-B0B544D249C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27405F47-CEDE-4A7A-B4A5-B0B544D249C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27405F47-CEDE-4A7A-B4A5-B0B544D249C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CE14EE-FA83-42D3-877D-43BDB6871C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CE14EE-FA83-42D3-877D-43BDB6871C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CE14EE-FA83-42D3-877D-43BDB6871C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CE14EE-FA83-42D3-877D-43BDB6871C4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

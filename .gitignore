@@ -2,3 +2,9 @@ Client/obj/Debug/
 Client/bin/Debug/
 Server/bin/Debug/
 Server/obj/Debug/
+MultithreadServer/bin/Debug/
+MultithreadServer/obj/Debug/MultithreadServer.csproj.FileListAbsolute.txt
+MultithreadClient/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+MultithreadClient/obj/Debug/
+MultithreadClient/bin/Debug/
+MultithreadServer/obj/Debug/
